@@ -44,7 +44,3 @@ This project can be extended by:
 - Automating checklist scoring using Excel formulas or Python  
 - Building a **compliance dashboard** for visualization  
 
----
-
-👤 **Author**: [Your Name]  
-📅 **Date**: September 2025  
