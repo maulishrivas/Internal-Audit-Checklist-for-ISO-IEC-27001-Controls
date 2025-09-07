@@ -1,4 +1,4 @@
-# Internal Audit Mini Project – ISO/IEC 27001 Checklist
+# Internal Audit Project – ISO/IEC 27001 Checklist
 
 ## Project Overview
 This project demonstrates a simplified **internal audit and risk assessment** approach using the **ISO/IEC 27001 framework**.  
