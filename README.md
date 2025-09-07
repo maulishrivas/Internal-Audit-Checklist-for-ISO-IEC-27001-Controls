@@ -33,14 +33,7 @@ It was designed as an hands-on exercise to practice **audit documentation, evide
 
 ## Key Learnings
 - Exposure to **audit documentation** and **risk assessment techniques**  
-- Hands-on practice with **compliance frameworks** (ISO/IEC 27001, SOC 2, PCI DSS, HiTrust CSF)  
+- Hands-on practice with **compliance frameworks** (ISO/IEC 27001)  
 - Experience in **reporting audit findings** and proposing remediation  
 
----
-
-## Future Scope
-This project can be extended by:  
-- Adding more frameworks (**PCI DSS, SOC 2**)  
-- Automating checklist scoring using Excel formulas or Python  
-- Building a **compliance dashboard** for visualization  
 
